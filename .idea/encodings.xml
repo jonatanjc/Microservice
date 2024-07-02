@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Grades/demo/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/demo/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/demo/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/students/demo/src/main/kotlin" charset="UTF-8" />
+  </component>
+</project>
